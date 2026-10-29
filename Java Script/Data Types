@@ -1,0 +1,10 @@
+const name="Tahameed";
+const age=24;
+const is_present=true;
+const phone=null;
+let not_set;
+console.log(name);
+console.log(age);
+console.log(is_present);
+console.log(phone);
+console.log(not_set);
